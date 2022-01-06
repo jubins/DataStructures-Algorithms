@@ -6,10 +6,11 @@ Algorithm &amp; Data Structure Problems
 ## How to contribute
 Thank you for interest in contributing! you can:
 - When contributing create branch using below format:
-  - `<your_name_or_initials>-<problem>-<language>` like `jubin-two-sum-python` or `js-two-sum-python`.
+  - `<your_name_or_initials>-<problem>-<language>`. For example: `jubin-two-sum-python` or `js-two-sum-python`.
   - Create a Pull Request and add someone to review your code.
-  - **Please do NOT directly merge into the main branch**
+  - **Please do NOT directly merge into the main branch.**
   - Delete your branch after the pull request is merged.
+  - Create a new folder for a new langugae. For example: say you are submitting code for Two Sum in Java, add this code in `Java` folder and file name as `twoSum.java`. If Java or your programming language folder doesn't already exist.
 - Optimize or improve the existing algorithms.
 - Add a different solution for the problem.
 - Fix bugs.
