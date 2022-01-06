@@ -1,6 +1,5 @@
 """
-Leetcode Link: https://leetcode.com/problems/two-sum/
-YouTube Link: https://youtu.be/XE-2Z7oGn6I
+ttps://leetcode.com/problems/two-sum/
 """
 
 import unittest
