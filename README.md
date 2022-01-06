@@ -7,8 +7,9 @@ Algorithm &amp; Data Structure Problems
 Thank you for interest in contributing! you can:
 - When contributing create branch using below format:
   - `<your_name_or_initials>-<problem>-<language>` like `jubin-two-sum-python` or `js-two-sum-python`.
-  - Create a Pull request and add someone to review your code.
+  - Create a Pull Request and add someone to review your code.
   - **Please do NOT directly merge into the main branch**
+  - Delete your branch after the pull request is merged.
 - Optimize or improve the existing algorithms.
 - Add a different solution for the problem.
 - Fix bugs.
